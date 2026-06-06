@@ -25,5 +25,12 @@ Develop a morden data warehouse using SQL server to consolidate sales date, enab
 #### Objective 
 Develop SQL-based analytics to deliver detailed insights into:
 - **Customer Behavior**
-- 
+- **Product Performance**
+- **Sales Trends**
+These insights empower stkeholders with key business metrics, enabling stateqic decision-making.
+
+##### License
+this object is licensed under the MIT License. You are free to use, modify, and share this projest with proper
+attribution.
+
 
