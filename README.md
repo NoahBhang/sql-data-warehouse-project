@@ -37,8 +37,3 @@ Develop SQL-based analytics to deliver detailed insights into:
 * **Customer Behavior**
 * **Product Performance**
 * **Sales Trends** These insights empower stakeholders with key business metrics, enabling strategic decision-making.
-
-
-## License
-
-this project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
